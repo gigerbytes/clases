@@ -18,7 +18,7 @@ class Dino:
         print("Hola soy un dinosaurio, me llamo ", self.nombre, "y soy ", self.color)
 
 #Aca instanciamos varios objetos del tipo Dino
-pepito = Dino("Pepe", "azul")
+pepito = Dino("Pepe", "Verde")
 pepita = Dino("Pepa", "plata")
 pepite = Dino("Pepx")
 pepiti = Dino("Pxpx", "Azulgrana")
